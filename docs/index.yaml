@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  homepage:
+  - annotations:
+      uipluign.cattle.io: "true"
+    apiVersion: v2
+    appVersion: 0.1.0
+    created: "2022-08-26T08:50:32.742655+01:00"
+    description: homepage plugin
+    digest: ce0ae5202f125dabb9238826dbf7c6c9d1f5d6237a5047502853111144346014
+    name: homepage
+    urls:
+    - https://github.com/nwmac/ui-plugin-examples/releases/download/0.1.0/homepage-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-08-26T08:50:32.742306+01:00"
