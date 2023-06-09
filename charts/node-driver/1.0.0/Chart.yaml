@@ -8,9 +8,8 @@ annotations:
   catalog.cattle.io/scope: management
   catalog.cattle.io/ui-component: plugins
 apiVersion: v2
-appVersion: "0.1.0"
-description: Adds a new UK localisation
-name: uk-locale
+appVersion: "1.0.0"
+description: Example node driver UI for Openstack
+name: openstack
 type: application
-version: 0.1.0
-icon: https://raw.githubusercontent.com/rancher/ui-plugin-examples/main/pkg/uk-locale/uk-locale.svg
+version: 1.0.0

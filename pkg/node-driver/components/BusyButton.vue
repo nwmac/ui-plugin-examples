@@ -47,7 +47,7 @@ export default Vue.extend({
   computed: {
     displayLabel(): string {
       if (this.labelKey) {
-        const t = this.$store.getters['i18n/t'];
+        const t = (this as any).$store.getters['i18n/t'];
 
         return t(this.labelKey);
       }
