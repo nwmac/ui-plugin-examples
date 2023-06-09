@@ -10,6 +10,6 @@ annotations:
 apiVersion: v2
 appVersion: "1.0.0"
 description: Example node driver UI for Openstack
-name: openstack
+name: node-driver
 type: application
 version: 1.0.0
