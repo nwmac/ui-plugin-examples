@@ -21,6 +21,7 @@ entries:
     urls:
     - assets/clock/clock-0.2.0.tgz
     version: 0.2.0
+    deprecated: true    
   - annotations:
       catalog.cattle.io/certified: rancher
       catalog.cattle.io/kube-version: '>= 1.16.0-0 < 1.25.0-0'
